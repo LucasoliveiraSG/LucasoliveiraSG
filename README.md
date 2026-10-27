@@ -25,5 +25,7 @@
 
 <h3>Conecte comigo!</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasoliveirasg/)](https://www.linkedin.com/in/lucasoliveirasg/)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasoliveirasg/)](https://www.linkedin.com/in/lucasoliveirasg/)
+[![Gmail Badge](https://img.shields.io/badge/-lucasoliveira25189-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lucasoliveira25189@gmail.com)](mailto:lucasoliveira25189@gmail.com)
+
 
