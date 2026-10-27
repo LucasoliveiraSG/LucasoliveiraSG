@@ -5,7 +5,7 @@
 
 ##
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LucasoliveiraSG&theme=nightowl&show_icons=true" alt="ilustração do status do github">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LucasoliveiraSG&theme=aura&show_icons=true" alt="ilustração do status do github">
 
 ### Oii!! prazer eu sou o Lucas.
 
